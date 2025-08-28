@@ -1,0 +1,10 @@
+streamlit==1.37.0
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.4.2
+matplotlib==3.8.4
+Sastrawi==1.0.1
+regex==2024.5.15
+reportlab==4.2.0
+tensorflow==2.15.0
+joblib==1.4.2
